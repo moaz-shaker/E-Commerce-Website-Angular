@@ -7,7 +7,7 @@ Welcome to the repository for our e-commerce project, inspired by platforms like
 FreshCart aims to deliver an engaging and seamless online shopping experience, modeled after industry giants like Amazon. This platform, developed using modern web technologies like Angular 16, TypeScript, and Bootstrap, offers a feature-rich environment where users can easily browse, search, and purchase products. With a responsive layout and intuitive design, FreshCart ensures a smooth user experience across devices.
 
 ## Preview
-Live Preview - [Click Here](https://amazon-e-commerce-website.vercel.app/home)
+Live Preview - [Click Here](e-commerce-website-angular-three.vercel.app)
 
 ## Key Features
 
