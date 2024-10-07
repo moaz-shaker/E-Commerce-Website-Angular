@@ -1,4 +1,4 @@
-# FreshCart Store
+# E-Commerce Store
 
 Welcome to the repository for our e-commerce project, inspired by platforms like Amazon.
 
